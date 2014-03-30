@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://jhollist.github.io//github/atom.xml" rel="self"/>
-  <link href="http://jhollist.github.io//github/"/>
-  <updated>2014-03-30T11:49:00-04:00</updated>
-  <id>http://jhollist.github.io//github/</id>
+  <title><![CDATA[Landscape Ecology 2.0]]></title>
+  <link href="http://jhollist.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://jhollist.github.io/blog/"/>
+  <updated>2014-03-30T12:05:56-04:00</updated>
+  <id>http://jhollist.github.io/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jeff Hollister]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
